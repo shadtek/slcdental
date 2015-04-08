@@ -26,3 +26,15 @@ header span {
 	padding: 0 5px;
 	flex-wrap: no-wrap;
 }
+
+.wrapper {
+	background: #005AA3;
+	padding: 10px 10%;
+
+}
+
+.content {
+	width: 100%;
+	background: #fff;
+}
+
